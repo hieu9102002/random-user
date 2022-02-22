@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Random user front-end
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project implements the front-end UI to display random users from an API.
 
 ## Available Scripts
 
