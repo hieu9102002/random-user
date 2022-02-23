@@ -20,6 +20,7 @@ const Pagination = ({
   };
 
   // 1 ... 4 5 [6] 7 8 ... 10
+  // 1 2 3 4 5
 
   const getPageNumbers = () => {
     const totalNumbers = maxPagesAdjToCurrent * 2 + 3; //Number of numbers in pagination component
