@@ -2,6 +2,9 @@
 
 This project implements the front-end UI to display random users from an API.
 
+## Loom share video:
+https://www.loom.com/share/cbe9203a0c384e3183b9945a1bf760b7 
+
 ## Available Scripts
 
 In the project directory, you can run:
